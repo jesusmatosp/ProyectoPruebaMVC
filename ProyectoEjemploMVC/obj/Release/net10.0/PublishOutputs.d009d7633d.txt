@@ -1,0 +1,7 @@
+C:\Users\jesus.MSI\source\repos\ProyectoEjemploMVC\ProyectoEjemploMVC\obj\Release\net10.0\PubTmp\Out\ProyectoEjemploMVC.exe
+C:\Users\jesus.MSI\source\repos\ProyectoEjemploMVC\ProyectoEjemploMVC\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jesus.MSI\source\repos\ProyectoEjemploMVC\ProyectoEjemploMVC\obj\Release\net10.0\PubTmp\Out\appsettings.json
+C:\Users\jesus.MSI\source\repos\ProyectoEjemploMVC\ProyectoEjemploMVC\obj\Release\net10.0\PubTmp\Out\ProyectoEjemploMVC.dll
+C:\Users\jesus.MSI\source\repos\ProyectoEjemploMVC\ProyectoEjemploMVC\obj\Release\net10.0\PubTmp\Out\ProyectoEjemploMVC.deps.json
+C:\Users\jesus.MSI\source\repos\ProyectoEjemploMVC\ProyectoEjemploMVC\obj\Release\net10.0\PubTmp\Out\ProyectoEjemploMVC.runtimeconfig.json
+C:\Users\jesus.MSI\source\repos\ProyectoEjemploMVC\ProyectoEjemploMVC\obj\Release\net10.0\PubTmp\Out\ProyectoEjemploMVC.pdb
